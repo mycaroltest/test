@@ -1,0 +1,1 @@
+in _check_not_importing_main is not going to be frozen to produce an executable.
